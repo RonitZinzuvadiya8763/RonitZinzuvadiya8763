@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+World!;Welcome+To+My+Github+Profile!)](https://git.io/typing-svg)
 
-![](https://komarev.com/ghpvc/?username=RonitZinzuvadiya1040l&color=0ca4a5)
+![](https://komarev.com/ghpvc/?username=RonitZinzuvadiya8763l&color=0ca4a5)
 
 👋 Hi, Myself Ronit Zinzuvadiya. <br>
 👀 I’m Web Developer. <br>
