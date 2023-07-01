@@ -6,7 +6,7 @@
 
 👋 Hi, Myself Ronit Zinzuvadiya. <br>
 👀 I’m Web Developer. <br>
-🌱 I’m currently Working on a Magento Open Source Framework. <br>
+🌱 I’m currently Working on a Laravel Open Source Framework. <br>
 📫 ronitzinzuvadiya2001@gmail.com <br>
 
 <h3 align="left">Connect with me:</h3>
